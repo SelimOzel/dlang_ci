@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dlang_ci
+dlang_ci.so
+dlang_ci.dylib
+dlang_ci.dll
+dlang_ci.a
+dlang_ci.lib
+dlang_ci-test-*
+*.exe
+*.o
+*.obj
+*.lst

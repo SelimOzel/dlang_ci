@@ -1,0 +1,5 @@
+name "dlang_ci"
+description "ci with github actions"
+authors "sozel"
+copyright "Copyright © 2023, sozel"
+license "proprietary"
